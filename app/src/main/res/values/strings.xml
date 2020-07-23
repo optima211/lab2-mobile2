@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="LabelCAS">Класс А</string>
+    <string name="BTcla">Запустить выбранный класс</string>
+    <string name="RBa">Класс B</string>
+    <string name="RBAC">Класс C</string>
+</resources>
